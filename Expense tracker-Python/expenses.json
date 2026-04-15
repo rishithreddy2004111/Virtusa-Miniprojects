@@ -1,0 +1,22 @@
+[
+    {
+        "date": "2026-04-11",
+        "category": "Food",
+        "amount": 3000.0
+    },
+    {
+        "date": "2026-04-12",
+        "category": "Bills",
+        "amount": 2500.0
+    },
+    {
+        "date": "2026-04-13",
+        "category": "Travel",
+        "amount": 2000.0
+    },
+    {
+        "date": "2026-04-13",
+        "category": "Shopping",
+        "amount": 3500.0
+    }
+]
